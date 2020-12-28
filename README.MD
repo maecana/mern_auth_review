@@ -6,6 +6,10 @@
 
 ### Installed Apps
 - reactjs
+- express
+- morgan
+- body-parser
+- dotenv
 
 
 ### Requirements
