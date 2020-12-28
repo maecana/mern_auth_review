@@ -10,8 +10,15 @@
 - morgan
 - body-parser
 - dotenv
+- cors
+- nodemon
 
 
 ### Requirements
 - Install package
    > npm install package.json
+
+
+### Run
+- for development
+   > npm run dev
